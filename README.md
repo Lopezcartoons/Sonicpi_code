@@ -1,2 +1,2 @@
 # Sample_sonicpi
-Using Sonic Pi to make music. These are some of the files to make music on livestreams.  
+Using Sonic Pi to make music. These are files of code that I use to make music on livestreams.  
